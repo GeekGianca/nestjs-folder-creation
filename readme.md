@@ -53,10 +53,12 @@ src/
 ### Execution Steps Bash
 1. Save the script as `folder-creation.sh` inside your NestJS project.
 2. Open **Terminal** and navigate to your project directory:
-   ```chmod +x folder-creation.sh
+   ```bash
+   chmod +x folder-creation.sh
    ```
 3. Run the script with:
-   ```.folder-creation.sh
+   ```bash
+   .folder-creation.sh
    ```
 
 ## Notes

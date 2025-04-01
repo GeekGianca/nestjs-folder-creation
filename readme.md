@@ -37,6 +37,7 @@ src/
 ## Usage
 ### Prerequisites
 - Ensure you have **PowerShell** installed (available by default on Windows and also installable on macOS/Linux).
+- Or use **Terminal** in Linux
 - Run the script inside the root directory of your NestJS project.
 
 ### Execution Steps PowerShell
